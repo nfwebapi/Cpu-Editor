@@ -1,7 +1,7 @@
 # README: Change Processor Name in Windows Registry
 
 ## Introduction
-This README file provides instructions on how to use a `.reg` file to change the `Processor Name` value in the Windows registry to a custom string.
+This README file provides instructions on how to use a `.reg` file to set the Processor Name in the Windows registry to a custom string.
 
 ## Instructions
 
